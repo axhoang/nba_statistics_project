@@ -80,3 +80,4 @@ Redefine the understanding of player performance metrics to adapt to modern bask
 ## Conclusion
 
 The modern NBA player's profile is continuously evolving. This dataset provides insights for tactical and strategic decisions in basketball. While our analysis offers a foundation, the world of sports analytics always has more to uncover!
+![Screenshot 2023-10-06 at 7 37 12 PM](https://github.com/axhoang/db-capstone-project/assets/117322132/0bb0ed53-bce6-44f1-b6fd-28c6f06aad54)
